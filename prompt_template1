@@ -16,3 +16,5 @@ The frontend and backend should both be using docker. Use docker-compose to comp
 
 Use pixi for environment management rather than e.g. venv.
 
+During development, I want both the frontend and backend to hot-reload. I'm not quite sure how this works with docker, maybe in dev they are not running in docker? I'm not sure.
+
