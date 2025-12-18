@@ -1,0 +1,18 @@
+I want to create a [...]
+
+
+For the backend:
+ - Use python
+ - Use FastAPI as the webserver. 
+ - Use polars if you need to do dataframe manipulation
+
+For the frontend: 
+ - Use vite
+ - use typescript
+ - use react
+
+
+The frontend and backend should both be using docker. Use docker-compose to compose the frontend and backend together.
+
+Use pixi for environment management rather than e.g. venv.
+
